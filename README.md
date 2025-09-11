@@ -26,6 +26,7 @@ This research explored persuasion dynamics in the r/ChangeMyView subreddit using
 
 ### Locating Bacterial Flagellar Motors in 3D Tomogram Data
 ![Locating a Flagellar Motor](/images/images/Flagellar-motor-example.png)
+
 [Research Report](project_reports/ST456_Group_Project____Locating_Flagellar_Motor.pdf) | [GitHub Repo](https://github.com/jpaserman/where-is-the-flagella-public.git)  
 
 This project addressed the challenge of automatically detecting and localizing bacterial flagellar motors in three-dimensional cryo-electron tomogram data. Working with noisy, low-contrast 3D imaging data, I developed and compared multiple approaches ranging from custom convolutional neural network (CNN) architectures to state-of-the-art object detection models. The project began with a custom PyTorch CNN for direct coordinate regression, and later expanded to include evaluations of YOLO variants (YOLOv8n, YOLOv8m, YOLOv11m) and RT-DETR models. I designed a preprocessing pipeline that extracted 2D slices from 3D tomograms with percentile-based normalization, implemented data augmentation strategies to account for orientation variation and occlusion, and performed systematic performance comparisons using mean Euclidean distance and F-2 scores. This work provided valuable insights into the application of modern computer vision techniques to challenging biological imaging problems, particularly in contexts with low signal-to-noise ratios and small object detection requirements.
