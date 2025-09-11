@@ -19,7 +19,7 @@
 Capstone project with the Wellcome Sanger Institute, University of Cambridge. Applied machine learning techniques for dimensionality reduction in high-dimensional single-cell RNA sequencing data. Developed a dimensionality reduction and clustering pipeline to characterize cell-type heterogeneity. I helped identify subtle transcriptional signatures using a combination of linear and non-linear methods (PCA, UMAP, t-SNE), along with other Deep Learning data integration techniques (scVI, scanorama, Harmony, BBKNN, etc.), and other unsupervised clustering and differential expression analysis. 
 
 ### Change Our View: A Distributed Topic Modelling Study of Persuasion Dynamics in r/ChangeMyView
-[Research Report]() | [GitHub Repo]()  
+[Research Report](/project_reports/Change_Our_View _FINALREPORT.pdf) | [GitHub Repo]()  
 
 This research explored persuasion dynamics in the r/ChangeMyView subreddit using distributed computing and natural language processing techniques. The project involved building scalable data pipelines in PySpark to process large-scale Reddit discussion data, implementing distributed topic modeling algorithms to identify patterns in successful persuasion attempts, and engineering features to predict when users would award "deltas" (indicating a changed view). We analyzed millions of comments to understand what linguistic and structural features make arguments more persuasive in online discourse. Through this work, I developed expertise in distributed computing frameworks, large-scale text analysis, and applying machine learning to understand human communication patterns.
 
