@@ -1,16 +1,19 @@
 # Data Science Portfolio
 
-## Technical Skills
-I have strong technical expertise in Python, R, SQL, and Stata, with a focus on machine learning, artificial intelligence, statistical analysis, and distributed computing. My background combines rigorous computational methods with applied problem-solving across healthcare, finance, and research domains.
+## 🛠️ Technical Skills
+- **Languages & Tools:** Python, R, SQL, Stata  
+- **Core Expertise:** Machine Learning, Artificial Intelligence, Statistical Analysis, Distributed Computing  
 
 ---
 
-## Education
-I am currently pursuing an M.Sc. in Data Science at The London School of Economics and Political Science, expected to graduate in September 2025. I hold a B.A. in Economics and Mathematics from Boston University, which I completed in May 2022.
+## 🎓 Education
+- **M.Sc. Data Science** — The London School of Economics and Political Science (September 2025)  
+- **B.A. Economics & Mathematics** — Boston University (May 2022)  
 
 ---
 
-## Projects
+## 📂 Projects
+
 
 ### Dimensionality Reduction in Single-Cell RNA Sequencing Data
 This capstone project was completed in collaboration with the Wellcome Sanger Institute at the University of Cambridge as part of my M.Sc. in Data Science. Due to confidentiality agreements, I am unable to share the full code repository. The project focused on applying state-of-the-art machine learning techniques for dimensionality reduction in single-cell RNA sequencing data. My work involved developing novel approaches to handle high-dimensional biological data, implementing advanced computational methods in Python, and creating visualization tools to interpret complex genomic patterns. Through this project, I gained deep expertise in bioinformatics applications of machine learning, working with cutting-edge research institutions, and translating complex biological questions into computational solutions.
