@@ -19,24 +19,24 @@
 Capstone project with the Wellcome Sanger Institute, University of Cambridge. Applied machine learning techniques for dimensionality reduction in high-dimensional single-cell RNA sequencing data. Developed a dimensionality reduction and clustering pipeline to characterize cell-type heterogeneity. I helped identify subtle transcriptional signatures using a combination of linear and non-linear methods (PCA, UMAP, t-SNE), along with other Deep Learning data integration techniques (scVI, scanorama, Harmony, BBKNN, etc.), and other unsupervised clustering and differential expression analysis. 
 
 ### Change Our View: A Distributed Topic Modelling Study of Persuasion Dynamics in r/ChangeMyView
-[Research Report](/project_reports/Change_Our_View _FINALREPORT.pdf) | [GitHub Repo]()  
+[Research Report](/project_reports/Change_Our_View_FINALREPORT.pdf) | [GitHub Repo](https://github.com/jpaserman/change-our-view-public.git)  
 
 This research explored persuasion dynamics in the r/ChangeMyView subreddit using distributed computing and natural language processing techniques. The project involved building scalable data pipelines in PySpark to process large-scale Reddit discussion data, implementing distributed topic modeling algorithms to identify patterns in successful persuasion attempts, and engineering features to predict when users would award "deltas" (indicating a changed view). We analyzed millions of comments to understand what linguistic and structural features make arguments more persuasive in online discourse. Through this work, I developed expertise in distributed computing frameworks, large-scale text analysis, and applying machine learning to understand human communication patterns.
 
 ### Locating Bacterial Flagellar Motors in 3D Tomogram Data
-[Research Report]() | [GitHub Repo]()  
+[Research Report](project_reports/ST456_Group_Project____Locating_Flagellar_Motor.pdf) | [GitHub Repo](https://github.com/jpaserman/where-is-the-flagella-public.git)  
 
 This project addressed the challenge of automatically detecting and localizing bacterial flagellar motors in three-dimensional cryo-electron tomogram data. Working with noisy, low-contrast 3D imaging data, I developed and compared multiple approaches ranging from custom convolutional neural network (CNN) architectures to state-of-the-art object detection models. The project began with a custom PyTorch CNN for direct coordinate regression, and later expanded to include evaluations of YOLO variants (YOLOv8n, YOLOv8m, YOLOv11m) and RT-DETR models. I designed a preprocessing pipeline that extracted 2D slices from 3D tomograms with percentile-based normalization, implemented data augmentation strategies to account for orientation variation and occlusion, and performed systematic performance comparisons using mean Euclidean distance and F-2 scores. This work provided valuable insights into the application of modern computer vision techniques to challenging biological imaging problems, particularly in contexts with low signal-to-noise ratios and small object detection requirements.
 
 
 ### Evaluating Classical Artificial Intelligence Algorithms on Connect Four
-[Research Report]() | [GitHub Repo](https://github.com/pholmes116/connect-four-ai-public.git)  
+[Research Report](project_reports/GroupM.pdf) | [GitHub Repo](https://github.com/pholmes116/connect-four-ai-public.git)  
 
 This research involved implementing and comparing three classical AI algorithms for Connect Four: Monte Carlo Tree Search, Alpha-Beta Pruning, and Alpha-Beta Pruning with a heuristic evaluation function. After hyperparameter tuning on the standard 7x6 board, we tested the algorithms in tournaments that included rule variations such as larger and smaller boards, a three-player setup, and the introduction of blocker stones. These modifications allowed us to evaluate how each approach balanced win rate and computational efficiency across increasingly complex environments. Results showed that while Monte Carlo Tree Search performed well with large branching factors, Alpha-Beta with evaluation was the most consistent and adaptable agent overall. Through this project, I gained experience in implementing game-tree search algorithms, designing controlled experiments for AI evaluation, and analyzing the trade-offs between accuracy, efficiency, and adaptability in algorithmic decision-making.
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 ### AIVF — Tel Aviv, Israel  
 **Data Analyst / Data Engineer | September 2022 – September 2024**  
