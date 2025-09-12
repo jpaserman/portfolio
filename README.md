@@ -16,6 +16,8 @@
 
 
 ### Dimensionality Reduction in Single-Cell RNA Sequencing Data
+Due to confidentiality agreements, the full code repository cannot be shared.  
+
 Capstone project with the Wellcome Sanger Institute, University of Cambridge. Applied machine learning techniques for dimensionality reduction in high-dimensional single-cell RNA sequencing data. Developed a dimensionality reduction and clustering pipeline to characterize cell-type heterogeneity. I helped identify subtle transcriptional signatures using a combination of linear and non-linear methods (PCA, UMAP, t-SNE), along with other Deep Learning data integration techniques (scVI, scanorama, Harmony, BBKNN, etc.), and other unsupervised clustering and differential expression analysis. 
 
 ### Change Our View: A Distributed Topic Modelling Study of Persuasion Dynamics in r/ChangeMyView
