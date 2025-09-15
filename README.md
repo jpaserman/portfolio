@@ -22,7 +22,7 @@ Capstone project with the Wellcome Sanger Institute, University of Cambridge. Ap
 
 ### Change Our View: A Distributed Topic Modelling Study of Persuasion Dynamics in r/ChangeMyView
 ![Change our view](/images/images/Deltas-awarded-by-topic.png)
-[Research Report](project_reports/Change_Our_View_FINALREPORT.pdf) | [GitHub Repo](https://github.com/jpaserman/change-our-view-public.git)  
+[Research Report](project_reports/change_our_view_final.pdf) | [GitHub Repo](https://github.com/jpaserman/change-our-view-public.git)  
 
 This research explored persuasion dynamics in the r/ChangeMyView subreddit using distributed computing and natural language processing techniques. The project involved building scalable data pipelines in PySpark to process large-scale Reddit discussion data, implementing distributed topic modeling algorithms to identify patterns in successful persuasion attempts, and engineering features to predict when users would award "deltas" (indicating a changed view). We analyzed millions of comments to understand what linguistic and structural features make arguments more persuasive in online discourse. Through this work, I developed expertise in distributed computing frameworks, large-scale text analysis, and applying machine learning to understand human communication patterns.
 
